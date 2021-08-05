@@ -12,6 +12,7 @@
         <module>dynamic</module>
         <module>sentinel</module>
         <module>dynamic-datasource</module>
+        <module>seata</module>
     </modules>
     <packaging>pom</packaging>
 
