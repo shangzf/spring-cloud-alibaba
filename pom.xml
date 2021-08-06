@@ -13,6 +13,8 @@
         <module>sentinel</module>
         <module>dynamic-datasource</module>
         <module>seata</module>
+        <module>openfeign-provider</module>
+        <module>openfeign-consumer</module>
     </modules>
     <packaging>pom</packaging>
 
